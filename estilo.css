@@ -1,0 +1,50 @@
+.backg{
+    z-index: -1;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 100%;
+    min-height: 100%;
+    opacity: 0.3;
+}
+h1,p{font-family: "Monospace";}
+h1{
+    font-size: 700%;
+    text-align: center;
+}
+.border{
+    border: solid;
+    border-radius: 20px;
+}
+
+p{
+    font-size:200% ;
+}
+
+h1,p{
+    font-weight: bold;
+    color: black;
+}
+
+.img{
+    border-radius: 5%;
+    width: 20%;
+    margin: 2%;
+    display: inline-block;
+}
+.img:hover{
+    opacity: 0.8;
+}
+
+.div1{
+    text-align: center;
+    display: block;
+}
+.div1 h2{
+    display: inline-block;
+    padding: 8px;
+    margin-left: 40px;
+}
+.link{
+    text-align: center;
+}
